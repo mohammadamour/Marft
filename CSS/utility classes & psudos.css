@@ -147,7 +147,7 @@ header button:hover p{
 
 .custom-button {
   position: relative;
-  background: var(--clr-yellow);
+  background: var(--clr-yellow); !important
   color: black;
   border: none;
   padding: 10px 20px;
